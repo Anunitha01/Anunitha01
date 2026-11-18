@@ -49,6 +49,15 @@ I'm interested in building practical solutions through Artificial Intelligence, 
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anunitha01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anunitha01&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
 ## Featured Projects
 
 ### 1. EasyGuide – AI-Powered Legal Document Assistant
