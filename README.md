@@ -76,9 +76,13 @@ A database-driven application designed to manage job postings, graduate profiles
 **Technologies:** Oracle APEX, SQL, Relational Database Design.
 
 ### 4. Girlies Cafe – E-Commerce Web Application
-A collaborative Java-based e-commerce application developed for an online cafe shopping experience.
+
+A collaborative Java-based e-commerce application developed
+to provide an interactive online cafe shopping experience.
 
 **Technologies:** Java, HTML, CSS, JavaScript, Git.
+
+**Repository:** [View Project](https://github.com/sam-codecode/Girlie_Cafe_Ecommerce)
 
 ### 5. HelpHub – Integrated Donation Management System
 A collaborative donation management system connecting donors with community organisations. Contributed as a Business Analyst.
